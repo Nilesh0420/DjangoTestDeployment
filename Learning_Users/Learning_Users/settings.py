@@ -28,7 +28,7 @@ SECRET_KEY = 'c8911627-dd42-4d71-940f-892b148cc2bf'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = [nilesh0420.pythonanywhere.com]
 
 # Application references
 # https://docs.djangoproject.com/en/2.1/ref/settings/#std:setting-INSTALLED_APPS
